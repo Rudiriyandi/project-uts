@@ -1,0 +1,17 @@
+{
+    "name": "rudi-uinsu/utsweb",
+    "description": "UTS PEMPROGAMAN BERBASIS WEB LANJUTAN TAHUN 2023",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rudi Riyandi"
+        }
+    ],
+    "require": {
+    }
+}
